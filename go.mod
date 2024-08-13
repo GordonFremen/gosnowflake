@@ -1,4 +1,4 @@
-module github.com/snowflakedb/gosnowflake
+module github.com/GordonFremen/gosnowflake
 
 go 1.21
 
